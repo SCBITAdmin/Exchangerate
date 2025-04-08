@@ -1,0 +1,90 @@
+[
+  {
+    "Country": "United States",
+    "Code": "USD",
+    "Unit": "Dollar",
+    "TT Buy": 0.2325,
+    "TC Buy": 0.2325,
+    "Note Buy": 0.2325,
+    "SELL TT/TC/Cash": 0.2325,
+    "BUY": 0.2325,
+    "SELL": 0.2325
+  },
+  {
+    "Country": "Australia",
+    "Code": "AUD",
+    "Unit": "Dollar",
+    "TT Buy": 0.2325,
+    "TC Buy": 0.2325,
+    "Note Buy": 0.2325,
+    "SELL TT/TC/Cash": 0.2325,
+    "BUY": 0.2325,
+    "SELL": 0.2325
+  },
+  {
+    "Country": "New Zealand",
+    "Code": "NZD",
+    "Unit": "Dollar",
+    "TT Buy": 0.2325,
+    "TC Buy": 0.2325,
+    "Note Buy": 0.2325,
+    "SELL TT/TC/Cash": 0.2325,
+    "BUY": 0.2325,
+    "SELL": 0.2325
+  },
+  {
+    "Country": "united Kingdom",
+    "Code": "GBP",
+    "Unit": "Pounds",
+    "TT Buy": 0.2325,
+    "TC Buy": 0.2325,
+    "Note Buy": 0.2325,
+    "SELL TT/TC/Cash": 0.2325,
+    "BUY": 0.2325,
+    "SELL": 0.2325
+  },
+  {
+    "Country": "Europe",
+    "Code": "EUR",
+    "Unit": "Euro",
+    "TT Buy": 0.2325,
+    "TC Buy": 0.2325,
+    "Note Buy": 0.2325,
+    "SELL TT/TC/Cash": 0.2325,
+    "BUY": 0.2325,
+    "SELL": 0.2325
+  },
+  {
+    "Country": "Fiji",
+    "Code": "FJD",
+    "Unit": "Dollar",
+    "TT Buy": 0.2325,
+    "TC Buy": 0.2325,
+    "Note Buy": 0.2325,
+    "SELL TT/TC/Cash": 0.2325,
+    "BUY": 0.2325,
+    "SELL": 0.2325
+  },
+  {
+    "Country": "Tonga",
+    "Code": "TOP",
+    "Unit": "Pa'anga",
+    "TT Buy": 0.2325,
+    "TC Buy": 0.2325,
+    "Note Buy": 0.2325,
+    "SELL TT/TC/Cash": 0.2325,
+    "BUY": 0.2325,
+    "SELL": 0.2325
+  },
+  {
+    "Country": "Japan",
+    "Code": "JPY",
+    "Unit": "Yen",
+    "TT Buy": 54.35625,
+    "TC Buy": 54.35625,
+    "Note Buy": 54.35625,
+    "SELL TT/TC/Cash": 54.35625,
+    "BUY": 54.35625,
+    "SELL": 54.35625
+  }
+]

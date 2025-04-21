@@ -1,0 +1,23 @@
+[
+  {
+    id: 1,
+    title: "SCB Launches New Mobile Banking Features",
+    summary: "Our latest update includes biometric login and instant transfers between accounts.",
+    date: "2023-11-15",
+    category: "Innovation"
+  },
+  {
+    id: 2,
+    title: "Annual Financial Results Announcement",
+    summary: "SCB reports record profits for FY2023 with 15% growth in customer deposits.",
+    date: "2023-11-10",
+    category: "Financial"
+  },
+  {
+    id: 3,
+    title: "Community Support Initiative",
+    summary: "Bank employees volunteer 500+ hours to local schools and charities this quarter.",
+    date: "2023-11-05",
+    category: "Community"
+  }
+]

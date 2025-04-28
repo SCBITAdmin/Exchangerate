@@ -4,135 +4,90 @@
         "id": 1,
         "name": "SCB Headquarters - Tauese",
         "address": "Tauese, Apia, Samoa",
-        "latitude": -13.8333,
-        "longitude": -171.7667,
-        "operational": true,
         "features": ["24/7 Access", "Cash Withdrawal", "Balance Inquiry"]
     },
     {
         "id": 2,
         "name": "SCB Branch - Maluafou",
         "address": "Maluafou, Apia, Samoa",
-        "latitude": -13.8350,
-        "longitude": -171.7600,
-        "operational": true,
         "features": ["24/7 Access", "Cash Withdrawal"]
     },
     {
         "id": 3,
         "name": "SCB Branch - Taufusi",
         "address": "Taufusi, Apia, Samoa",
-        "latitude": -13.8300,
-        "longitude": -171.7700,
-        "operational": true,
         "features": ["24/7 Access", "Cash Withdrawal", "Balance Inquiry"]
     },
     {
         "id": 4,
         "name": "Fugalei Market - Fugalei",
         "address": "Fugalei, Apia, Samoa",
-        "latitude": -13.8325,
-        "longitude": -171.7650,
-        "operational": true,
         "features": ["Cash Withdrawal"]
     },
     {
         "id": 5,
         "name": "SCB Branch - Lotopa",
         "address": "Lotopa, Apia, Samoa",
-        "latitude": -13.8400,
-        "longitude": -171.7750,
-        "operational": true,
         "features": ["24/7 Access", "Cash Withdrawal", "Balance Inquiry"]
     },
     {
         "id": 6,
         "name": "SCB Branch - Vaitiele",
         "address": "Vaitiele, Apia, Samoa",
-        "latitude": -13.8250,
-        "longitude": -171.7800,
-        "operational": true,
         "features": ["24/7 Access", "Cash Withdrawal"]
     },
     {
         "id": 7,
         "name": "Apia Supermarket - Tauese",
         "address": "Tauese, Apia, Samoa",
-        "latitude": -13.8340,
-        "longitude": -171.7680,
-        "operational": true,
         "features": ["Cash Withdrawal"]
     },
     {
         "id": 8,
         "name": "Wilson Complex - Moataa",
         "address": "Moataa, Apia, Samoa",
-        "latitude": -13.8380,
-        "longitude": -171.7720,
-        "operational": true,
         "features": ["Cash Withdrawal"]
     },
     {
         "id": 9,
         "name": "Myna's Supermarket - Vaoala",
         "address": "Vaoala, Apia, Samoa",
-        "latitude": -13.8270,
-        "longitude": -171.7820,
-        "operational": true,
         "features": ["Cash Withdrawal"]
     },
     {
         "id": 10,
         "name": "Farmer Joe Magi - Ululoloa",
         "address": "Ululoloa, Apia, Samoa",
-        "latitude": -13.8420,
-        "longitude": -171.7840,
-        "operational": true,
         "features": ["Cash Withdrawal"]
     },
     {
         "id": 11,
         "name": "Farmer Joe - Vaitiele",
         "address": "Vaitiele, Apia, Samoa",
-        "latitude": -13.8260,
-        "longitude": -171.7810,
-        "operational": true,
         "features": ["Cash Withdrawal"]
     },
     {
         "id": 12,
         "name": "Farmer Joe Aita - Soleimoa",
         "address": "Soleimoa, Apia, Samoa",
-        "latitude": -13.8290,
-        "longitude": -171.7860,
-        "operational": true,
         "features": ["Cash Withdrawal"]
     },
     {
         "id": 13,
         "name": "SCB Branch - Fasitoo",
         "address": "Fasitoo, Apia, Samoa",
-        "latitude": -13.8500,
-        "longitude": -171.7900,
-        "operational": true,
         "features": ["24/7 Access", "Cash Withdrawal"]
     },
     {
         "id": 14,
         "name": "Bluebird Lumber & Hardware - Salelologa",
         "address": "Salelologa, Savai'i, Samoa",
-        "latitude": -13.7333,
-        "longitude": -172.2000,
-        "operational": true,
         "features": ["Cash Withdrawal"]
     },
     {
         "id": 15,
         "name": "SCB Branch - SaleIologa",
         "address": "Salelologa, Savai'i, Samoa",
-        "latitude": -13.7350,
-        "longitude": -172.2050,
-        "operational": true,
         "features": ["24/7 Access", "Cash Withdrawal", "Balance Inquiry"]
     }
 ]

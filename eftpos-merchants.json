@@ -1,1 +1,26 @@
-
+[
+    {
+        "id": 1,
+        "name": "Ah Liki Wholesale - Taufusi",
+        "address": "Taufusi, Apia, Samoa",
+        "category": "Wholesale",
+        "operationalHours": "Mon-Sat: 8AM-5PM",
+        "contact": "12345"
+    },
+    {
+        "id": 2,
+        "name": "Ah Liki Wholesale - Vaitiele",
+        "address": "Vaitiele, Apia, Samoa",
+        "category": "Wholesale",
+        "operationalHours": "Mon-Sat: 8AM-5PM",
+        "contact": "12346"
+    },
+    {
+        "id": 3,
+        "name": "Bluebird Lumber & Hardware - Saleufi",
+        "address": "Saleufi, Apia, Samoa",
+        "category": "Hardware",
+        "operationalHours": "Mon-Fri: 8AM-5PM, Sat: 8AM-12PM",
+        "contact": "12347"
+    }
+]

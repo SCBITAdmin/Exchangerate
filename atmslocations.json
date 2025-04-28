@@ -1,1 +1,30 @@
 
+[
+    {
+        "id": 1,
+        "name": "SCB Headquarters - Tauese",
+        "address": "Tauese, Apia, Samoa",
+        "distance": 1.2,
+        "latitude": -13.8333,
+        "longitude": -171.7667,
+        "operational": true
+    },
+    {
+        "id": 2,
+        "name": "SCB Branch - Maluafou",
+        "address": "Maluafou, Apia, Samoa",
+        "distance": 2.5,
+        "latitude": -13.8350,
+        "longitude": -171.7600,
+        "operational": true
+    },
+    {
+        "id": 3,
+        "name": "SCB Branch - Taufusi",
+        "address": "Taufusi, Apia, Samoa",
+        "distance": 3.1,
+        "latitude": -13.8300,
+        "longitude": -171.7700,
+        "operational": true
+    }
+]

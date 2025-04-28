@@ -5,7 +5,8 @@
         "address": "Taufusi, Apia, Samoa",
         "category": "Wholesale",
         "operationalHours": "Mon-Sat: 8AM-5PM",
-        "contact": "12345"
+        "contact": "12345",
+        "features": ["Cash Withdrawal", "Purchase"]
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "address": "Vaitiele, Apia, Samoa",
         "category": "Wholesale",
         "operationalHours": "Mon-Sat: 8AM-5PM",
-        "contact": "12346"
+        "contact": "12346",
+        "features": ["Cash Withdrawal", "Purchase"]
     },
     {
         "id": 3,
@@ -21,6 +23,160 @@
         "address": "Saleufi, Apia, Samoa",
         "category": "Hardware",
         "operationalHours": "Mon-Fri: 8AM-5PM, Sat: 8AM-12PM",
-        "contact": "12347"
+        "contact": "12347",
+        "features": ["Purchase"]
+    },
+    {
+        "id": 4,
+        "name": "Farmer Joe - Fugalei",
+        "address": "Fugalei, Apia, Samoa",
+        "category": "Supermarket",
+        "operationalHours": "Mon-Sun: 7AM-9PM",
+        "contact": "12348",
+        "features": ["Cash Withdrawal", "Purchase"]
+    },
+    {
+        "id": 5,
+        "name": "Farmer Joe Magi - Ululoloa",
+        "address": "Ululoloa, Apia, Samoa",
+        "category": "Supermarket",
+        "operationalHours": "Mon-Sun: 7AM-9PM",
+        "contact": "12349",
+        "features": ["Cash Withdrawal", "Purchase"]
+    },
+    {
+        "id": 6,
+        "name": "Farmer Joe - Vaitiele",
+        "address": "Vaitiele, Apia, Samoa",
+        "category": "Supermarket",
+        "operationalHours": "Mon-Sun: 7AM-9PM",
+        "contact": "12350",
+        "features": ["Cash Withdrawal", "Purchase"]
+    },
+    {
+        "id": 7,
+        "name": "Farmer Joe Aita - Soleimoa",
+        "address": "Soleimoa, Apia, Samoa",
+        "category": "Supermarket",
+        "operationalHours": "Mon-Sun: 7AM-9PM",
+        "contact": "12351",
+        "features": ["Cash Withdrawal", "Purchase"]
+    },
+    {
+        "id": 8,
+        "name": "Maria's Healthcare Pharmacy - Motoatua",
+        "address": "Motoatua, Apia, Samoa",
+        "category": "Pharmacy",
+        "operationalHours": "Mon-Fri: 8AM-5PM, Sat: 8AM-12PM",
+        "contact": "12352",
+        "features": ["Purchase"]
+    },
+    {
+        "id": 9,
+        "name": "Maria's Healthcare Pharmacy - Vaitiele",
+        "address": "Vaitiele, Apia, Samoa",
+        "category": "Pharmacy",
+        "operationalHours": "Mon-Fri: 8AM-5PM, Sat: 8AM-12PM",
+        "contact": "12353",
+        "features": ["Purchase"]
+    },
+    {
+        "id": 10,
+        "name": "SSAB Megastore - Togafitafata",
+        "address": "Togafitafata, Apia, Samoa",
+        "category": "Department Store",
+        "operationalHours": "Mon-Sat: 8AM-5PM, Sun: 10AM-2PM",
+        "contact": "12354",
+        "features": ["Cash Withdrawal", "Purchase"]
+    },
+    {
+        "id": 11,
+        "name": "Lucky Foodtown - Saleufi",
+        "address": "Saleufi, Apia, Samoa",
+        "category": "Supermarket",
+        "operationalHours": "Mon-Sun: 7AM-10PM",
+        "contact": "12355",
+        "features": ["Cash Withdrawal", "Purchase"]
+    },
+    {
+        "id": 12,
+        "name": "JP Sports Bar - Vaimea",
+        "address": "Vaimea, Apia, Samoa",
+        "category": "Entertainment",
+        "operationalHours": "Mon-Sat: 10AM-12AM, Sun: 12PM-12AM",
+        "contact": "12356",
+        "features": ["Purchase"]
+    },
+    {
+        "id": 13,
+        "name": "Hana's Minmart - Aleisa",
+        "address": "Aleisa, Apia, Samoa",
+        "category": "Convenience Store",
+        "operationalHours": "Mon-Sun: 6AM-10PM",
+        "contact": "12357",
+        "features": ["Cash Withdrawal", "Purchase"]
+    },
+    {
+        "id": 14,
+        "name": "Ufiufi Peilua Store - Malaemalu",
+        "address": "Malaemalu, Apia, Samoa",
+        "category": "Convenience Store",
+        "operationalHours": "Mon-Sat: 7AM-7PM",
+        "contact": "12358",
+        "features": ["Cash Withdrawal", "Purchase"]
+    },
+    {
+        "id": 15,
+        "name": "Nourish Cafe - Mulivai",
+        "address": "Mulivai, Apia, Samoa",
+        "category": "Cafe",
+        "operationalHours": "Mon-Fri: 7AM-4PM, Sat: 8AM-2PM",
+        "contact": "12359",
+        "features": ["Purchase"]
+    },
+    {
+        "id": 16,
+        "name": "MCAL Chemist - Leauvaa",
+        "address": "Leauvaa, Apia, Samoa",
+        "category": "Pharmacy",
+        "operationalHours": "Mon-Fri: 8AM-5PM, Sat: 8AM-12PM",
+        "contact": "12360",
+        "features": ["Purchase"]
+    },
+    {
+        "id": 17,
+        "name": "Delicious Cake - Lepea",
+        "address": "Lepea, Apia, Samoa",
+        "category": "Bakery",
+        "operationalHours": "Mon-Sat: 7AM-5PM",
+        "contact": "12361",
+        "features": ["Purchase"]
+    },
+    {
+        "id": 18,
+        "name": "The Body Shop - Saleufi",
+        "address": "Saleufi, Apia, Samoa",
+        "category": "Beauty",
+        "operationalHours": "Mon-Fri: 9AM-5PM, Sat: 9AM-1PM",
+        "contact": "12362",
+        "features": ["Purchase"]
+    },
+    {
+        "id": 19,
+        "name": "Ross - Matautu",
+        "address": "Matautu, Apia, Samoa",
+        "category": "Clothing",
+        "operationalHours": "Mon-Sat: 9AM-5PM",
+        "contact": "12363",
+        "features": ["Purchase"]
+    },
+    {
+        "id": 20,
+        "name": "Ross - Vaitiele",
+        "address": "Vaitiele, Apia, Samoa",
+        "category": "Clothing",
+        "operationalHours": "Mon-Sat: 9AM-5PM",
+        "contact": "12364",
+        "features": ["Purchase"]
     }
 ]

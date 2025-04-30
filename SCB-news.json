@@ -1,0 +1,18 @@
+[
+  {
+    "image": "https://samoa-observer.s3.ap-southeast-2.amazonaws.com/store/f47aed07b6031943fb75250236684dde.jpg",
+    "title": "Samoa Commercial Bank gets international recognition",
+    "details": "Samoa Commercial Bank (SCB) has for the fourth consecutive time received international recognition as the “leading partner bank” in the Pacific for the ADB Trade and Supply Chain Finance Program.",
+    "date": "May 1, 2023",
+    "link": "https://www.samoaobserver.ws/category/samoa/99860",
+    "category": "Announcement"
+  },
+  {
+    "image": "https://example.com/news2.jpg",
+    "title": "Quarterly Financial Results",
+    "details": "Vivamus luctus eros aliquet convallis ultricies. Mauris augue massa...",
+    "date": "April 15, 2023",
+    "link": "https://example.com/news/2",
+    "category": "Financial"
+  }
+]

@@ -1,20 +1,74 @@
-[
-  {
-    "id": 1,
-    "location": "Northridge Estate",
-    "size": 2.5,
-    "price": "$150,000",
-    "zoning": "Residential",
-    "features": ["Waterfront", "Flat terrain", "Road access"],
-    "contact": "john@realestate.com"
-  },
-  {
-    "id": 2,
-    "location": "Green Valley",
-    "size": 5.0,
-    "price": "$250,000",
-    "zoning": "Agricultural",
-    "features": ["Fertile soil", "Irrigation", "Scenic views"],
-    "contact": "sarah@lands.com"
-  }
-]
+{
+  "lands": [
+    {
+      "id": 1,
+      "location": "Aleisa via Saleimoa",
+      "size": "3 acres (now in ½ acre lots)",
+      "price": "$80k per ½ acre",
+      "zoning": "Residential",
+      "features": ["Subdivided", "Road access"],
+      "contact": "lands@samoa.com",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    },
+    {
+      "id": 2,
+      "location": "Aleisa via Saleimoa",
+      "size": "1 acre",
+      "price": "$120k O.N.O",
+      "zoning": "Residential",
+      "features": ["Flat terrain"],
+      "contact": "lands@samoa.com",
+      "image": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6"
+    },
+    {
+      "id": 3,
+      "location": "Tanumalala",
+      "size": "½ acre",
+      "price": "$100k O.N.O",
+      "zoning": "Residential",
+      "features": ["Scenic views"],
+      "contact": "tanumalala@lands.com",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750"
+    },
+    {
+      "id": 4,
+      "location": "Vajata/Savaii",
+      "size": "10 acres",
+      "price": "$300,000.00",
+      "zoning": "Agricultural",
+      "features": ["Large area", "Potential development"],
+      "contact": "savaii@properties.com",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+    },
+    {
+      "id": 5,
+      "location": "Malologeei (Lots: 1,5,7)",
+      "size": "¼ acre",
+      "price": "$50k O.N.O",
+      "zoning": "Residential",
+      "features": ["Remaining lots"],
+      "contact": "malologeei@realestate.com",
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be"
+    },
+    {
+      "id": 6,
+      "location": "Fugalei-Vacant",
+      "size": "¼ acre",
+      "price": "$990,000.00",
+      "zoning": "Commercial",
+      "features": ["Prime location"],
+      "contact": "fugalei@premium.com",
+      "image": "https://images.unsplash.com/photo-1560520031-3a4dc4e9de0c"
+    },
+    {
+      "id": 7,
+      "location": "Samatau",
+      "size": "¼ acre",
+      "price": "Open to Offer",
+      "zoning": "Residential",
+      "features": ["Negotiable price"],
+      "contact": "samatau@lands.com",
+      "image": "https://images.unsplash.com/photo-1605146769289-440113cc3d00"
+    }
+  ]
+}

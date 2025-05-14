@@ -1,61 +1,20 @@
-{
-  "name": "Land Properties",
-  "properties": [
-    {
-      "id": 1,
-      "title": "3 acres at ALEISA via SALEIMOA (now in ½ acres)",
-      "price": "$80K per 1/2 acre",
-      "location": "Aspen, CO",
-      "description": "Breathtaking mountain views on this 2-acre plot. Utilities available at the road.",
-      "size": "2 acres",
-      "mainImage": "https://images.unsplash.com/photo-1476231682828-37e571bc172f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1470114716159-e389f8712fda?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Mountain View Plot",
-      "price": "$180,000",
-      "location": "Aspen, CO",
-      "description": "Breathtaking mountain views on this 2-acre plot. Utilities available at the road.",
-      "size": "2 acres",
-      "mainImage": "https://images.unsplash.com/photo-1476231682828-37e571bc172f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1476231682828-37e571bc172f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1464823063530-08f10ed1a2dd?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Suburban Lot",
-      "price": "$75,000",
-      "location": "Austin, TX",
-      "description": "Prime suburban lot in growing neighborhood. Close to schools and shopping.",
-      "size": "0.5 acres",
-      "mainImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1460317442991-0ec209397118?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Rural Acreage",
-      "price": "$50,000",
-      "location": "Montana, USA",
-      "description": "Peaceful rural setting with 10 acres of pristine land. Perfect for homesteading.",
-      "size": "10 acres",
-      "mainImage": "https://images.unsplash.com/photo-1476231682828-37e571bc172f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1476231682828-37e571bc172f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "location": "Northridge Estate",
+    "size": 2.5,
+    "price": "$150,000",
+    "zoning": "Residential",
+    "features": ["Waterfront", "Flat terrain", "Road access"],
+    "contact": "john@realestate.com"
+  },
+  {
+    "id": 2,
+    "location": "Green Valley",
+    "size": 5.0,
+    "price": "$250,000",
+    "zoning": "Agricultural",
+    "features": ["Fertile soil", "Irrigation", "Scenic views"],
+    "contact": "sarah@lands.com"
+  }
+]

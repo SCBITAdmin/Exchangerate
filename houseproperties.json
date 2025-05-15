@@ -1,89 +1,26 @@
 {
-  "name": "House Properties",
-  "properties": [
+  "houses": [
     {
       "id": 1,
-      "title": "Luxury Apartment",
-      "price": "$1,200,000",
-      "beds": "3 beds",
-      "description": "Spacious luxury apartment in prime downtown location with panoramic city views.",
-      "size": "2,200 sq ft",
-      "mainImage": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
+      "address": "23 Beach Road, Apia",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFeet": 1800,
+      "price": "$350,000",
+      "yearBuilt": 2010,
+      "contact": "houses@samoa.com",
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6"
     },
     {
       "id": 2,
-      "title": "Modern Condo",
-      "price": "$750,000",
-      "beds": "2 beds",
-      "description": "Sleek modern condo with high-end finishes and smart home features.",
-      "size": "1,500 sq ft",
-      "mainImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Townhouse",
+      "address": "45 Main Street, Saleimoa",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFeet": 2200,
       "price": "$450,000",
-      "beds": "3 beds",
-      "description": "Charming townhouse in family-friendly community with shared amenities.",
-      "size": "1,800 sq ft",
-      "mainImage": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
-    },
-        {
-      "id": 4,
-      "title": "Modern Condo",
-      "price": "$750,000",
-      "beds": "2 beds",
-      "description": "Sleek modern condo with high-end finishes and smart home features.",
-      "size": "1,500 sq ft",
-      "mainImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Townhouse",
-      "price": "$450,000",
-      "beds": "3 beds",
-      "description": "Charming townhouse in family-friendly community with shared amenities.",
-      "size": "1,800 sq ft",
-      "mainImage": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Country Villa",
-      "price": "$950,000",
-      "beds": "4 beds",
-      "description": "Elegant country villa with private pool and expansive gardens.",
-      "size": "3,500 sq ft",
-      "mainImage": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-      ]
+      "yearBuilt": 2015,
+      "contact": "saleimoa@homes.com",
+      "image": "https://images.unsplash.com/photo-1600585152220-90363fe7e115"
     }
   ]
 }

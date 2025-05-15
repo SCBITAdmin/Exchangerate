@@ -1,0 +1,24 @@
+{
+  "others": [
+    {
+      "id": 1,
+      "name": "Commercial Freezer",
+      "category": "Restaurant Equipment",
+      "description": "Industrial size, 6 months old",
+      "price": "$3,500",
+      "condition": "Like new",
+      "contact": "equipment@samoa.com",
+      "image": "https://images.unsplash.com/photo-1583778176476-4a8b02a64c01"
+    },
+    {
+      "id": 2,
+      "name": "Fishing Boat",
+      "category": "Marine",
+      "description": "25ft with 200HP engine",
+      "price": "$15,000",
+      "condition": "Good",
+      "contact": "marine@samoa.com",
+      "image": "https://images.unsplash.com/photo-1513828583688-c52646db42da"
+    }
+  ]
+}

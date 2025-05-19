@@ -1,0 +1,100 @@
+{
+  "branches": [
+    {
+      "name": "SCB Headquarters - Tauese",
+      "address": "Beach Road, Apia",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": ""
+    },
+    {
+      "name": "SCB Branch - Maluafou",
+      "address": "Cross Road, Apia",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "29300"
+    },
+    {
+      "name": "SCB Branch - Taufusi",
+      "address": "Vaea Street, Taufusi",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "27939"
+    },
+    {
+      "name": "SCB Branch - Fugalei",
+      "address": "Fugalei Street, Fugalei",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "31243"
+    },
+    {
+      "name": "SCB Branch - Lotopa",
+      "address": "Lotopa Road, Lotopa",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "31628"
+    },
+    {
+      "name": "SCB Branch - Vaitele",
+      "address": "Vaitele Industrial Area",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "27670"
+    },
+    {
+      "name": "SCB Branch - Fasitoo",
+      "address": "Fasitoo Road, Apia",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "42871"
+    },
+    {
+      "name": "SCB Branch - Ululoloa",
+      "address": "Ululoloa Road",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "29303"
+    },
+    {
+      "name": "SCB Branch - Malemalu",
+      "address": "Malaemalu street",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "7531234"
+    },
+    {
+      "name": "SCB Branch - Lefaga",
+      "address": "Lefaga Road",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "7531235"
+    },
+    {
+      "name": "SCB Branch - Manono",
+      "address": "Manono Road",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "7531237"
+    },
+    {
+      "name": "SCB Branch - Lalomanu",
+      "address": "Lalomanu Street",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "7531232"
+    },
+    {
+      "name": "SCB Branch - Salelologa",
+      "address": "Salelologa Street",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "51117/7531236"
+    },
+    {
+      "name": "SCB Branch - Asau",
+      "address": "Asau Street",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "58093/7531238"
+    },
+    {
+      "name": "SCB Branch - Sala'ilua",
+      "address": "Sala'ilua Street",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "7539773"
+    },
+    {
+      "name": "SCB Branch - Fagamalu",
+      "address": "Fagamalo Street",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "7539770"
+    }
+  ]
+}

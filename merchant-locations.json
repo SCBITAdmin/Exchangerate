@@ -1,0 +1,134 @@
+{
+  "merchants": [
+    {
+      "id": 1,
+      "name": "CR2 Company",
+      "location": "Tamaligi"
+    },
+    {
+      "id": 2,
+      "name": "D & T Schwalger",
+      "location": "Malie"
+    },
+    {
+      "id": 3,
+      "name": "Maria Health Care Pharmacy",
+      "location": "Taufusi"
+    },
+    {
+      "id": 4,
+      "name": "Liquor Planet",
+      "location": "Mulivai"
+    },
+    {
+      "id": 5,
+      "name": "Sign Studio",
+      "location": "Vattele"
+    },
+    {
+      "id": 6,
+      "name": "Nourish Cafe",
+      "location": "Mulivai"
+    },
+    {
+      "id": 7,
+      "name": "Seki Eats",
+      "location": "Vaimea"
+    },
+    {
+      "id": 8,
+      "name": "Le Well Co Ltd",
+      "location": "Savalalo"
+    },
+    {
+      "id": 9,
+      "name": "SSAB Megastore",
+      "location": "Tagafuafua"
+    },
+    {
+      "id": 10,
+      "name": "IT ZONE Ltd",
+      "location": "Saleufi"
+    },
+    {
+      "id": 11,
+      "name": "Ten Below Shack",
+      "location": "Saleufi"
+    },
+    {
+      "id": 12,
+      "name": "Sunrise Restaurant",
+      "location": "Togafuafua"
+    },
+    {
+      "id": 13,
+      "name": "T & N Toleafoa",
+      "location": "Lotopa"
+    },
+    {
+      "id": 14,
+      "name": "SMDA BBQ & Takeaway",
+      "location": "Moataa"
+    },
+    {
+      "id": 15,
+      "name": "JP Sports Bar",
+      "location": "Vaimea"
+    },
+    {
+      "id": 16,
+      "name": "Samoa Water Authority",
+      "location": "TATTE Building"
+    },
+    {
+      "id": 17,
+      "name": "Michelle's",
+      "location": "Matautu"
+    },
+    {
+      "id": 18,
+      "name": "Delicious Cakes",
+      "location": "Lotopa"
+    },
+    {
+      "id": 19,
+      "name": "Nana Bellas",
+      "location": "Lotopa"
+    },
+    {
+      "id": 20,
+      "name": "Kiko's Cafe",
+      "location": "Matautu"
+    },
+    {
+      "id": 21,
+      "name": "Taumeasina Hideaway",
+      "location": "Moataa"
+    },
+    {
+      "id": 22,
+      "name": "KK Mart",
+      "location": "Matautu"
+    },
+    {
+      "id": 23,
+      "name": "Island Love",
+      "location": "Matautu"
+    },
+    {
+      "id": 24,
+      "name": "4A Simo",
+      "location": "Lalomanu"
+    },
+    {
+      "id": 25,
+      "name": "ENT's Cafe",
+      "location": "Savalalo"
+    },
+    {
+      "id": 26,
+      "name": "LOT Bar",
+      "location": "Matautu"
+    }
+  ]
+}

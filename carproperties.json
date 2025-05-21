@@ -8,8 +8,7 @@
       "mileage": "35,000 km",
       "price": "$35,000",
       "condition": "Excellent",
-      "contact": "cars@samoa.com",
-      "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e"
+      "contact": "cars@samoa.com"
     },
     {
       "id": 2,
@@ -19,8 +18,7 @@
       "mileage": "45,000 km",
       "price": "$30,000",
       "condition": "Good",
-      "contact": "nissan@autos.com",
-      "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e"
+      "contact": "nissan@autos.com"
     }
   ]
 }

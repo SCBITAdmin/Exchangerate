@@ -7,8 +7,7 @@
       "price": "$80k per ½ acre",
       "zoning": "Residential",
       "features": ["Subdivided", "Road access"],
-      "contact": "lands@samoa.com",
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+      "contact": "lands@samoa.com"
     },
     {
       "id": 2,
@@ -17,8 +16,7 @@
       "price": "$120k O.N.O",
       "zoning": "Residential",
       "features": ["Flat terrain"],
-      "contact": "lands@samoa.com",
-      "image": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6"
+      "contact": "lands@samoa.com"
     },
     {
       "id": 3,
@@ -27,8 +25,7 @@
       "price": "$100k O.N.O",
       "zoning": "Residential",
       "features": ["Scenic views"],
-      "contact": "tanumalala@lands.com",
-      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750"
+      "contact": "tanumalala@lands.com"
     },
     {
       "id": 4,
@@ -37,8 +34,7 @@
       "price": "$300,000.00",
       "zoning": "Agricultural",
       "features": ["Large area", "Potential development"],
-      "contact": "savaii@properties.com",
-      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+      "contact": "savaii@properties.com"
     },
     {
       "id": 5,
@@ -47,8 +43,7 @@
       "price": "$50k O.N.O",
       "zoning": "Residential",
       "features": ["Remaining lots"],
-      "contact": "malologeei@realestate.com",
-      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be"
+      "contact": "malologeei@realestate.com"
     },
     {
       "id": 6,
@@ -57,8 +52,7 @@
       "price": "$990,000.00",
       "zoning": "Commercial",
       "features": ["Prime location"],
-      "contact": "fugalei@premium.com",
-      "image": "https://images.unsplash.com/photo-1560520031-3a4dc4e9de0c"
+      "contact": "fugalei@premium.com"
     },
     {
       "id": 7,
@@ -67,8 +61,7 @@
       "price": "Open to Offer",
       "zoning": "Residential",
       "features": ["Negotiable price"],
-      "contact": "samatau@lands.com",
-      "image": "https://images.unsplash.com/photo-1605146769289-440113cc3d00"
+      "contact": "samatau@lands.com"
     }
   ]
 }

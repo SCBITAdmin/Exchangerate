@@ -1,5 +1,5 @@
 {
-  "branches": [
+  "Upolu": [
     {
       "name": "SCB Headquarters - Tauese",
       "address": "Beach Road, Apia",
@@ -73,11 +73,13 @@
       "phone": "7531232"
     },
     {
-      "name": "SCB Branch - Lalomanu",
-      "address": "Lalomanu Street",
+      "name": "SCB Branch - Motootua",
+      "address": "Motootua Street",
       "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
-      "phone": "7531232"
-    },
+      "phone": "7539770"
+    }
+  ],
+  "Savaii": [
     {
       "name": "SCB Branch - Salelologa",
       "address": "Salelologa Street",
@@ -99,12 +101,6 @@
     {
       "name": "SCB Branch - Fagamalu",
       "address": "Fagamalo Street",
-      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
-      "phone": "7539770"
-    },
-    {
-      "name": "SCB Branch - Motootua",
-      "address": "Motootua Street",
       "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
       "phone": "7539770"
     },

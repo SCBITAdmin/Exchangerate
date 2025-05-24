@@ -101,6 +101,12 @@
       "address": "Fagamalo Street",
       "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
       "phone": "7539770"
+    },
+    {
+      "name": "SCB Branch - Motootua",
+      "address": "Motootua Street",
+      "hours": "Mon-Fri: 8:30 AM - 4:00 PM",
+      "phone": "7539770"
     }
   ]
 }

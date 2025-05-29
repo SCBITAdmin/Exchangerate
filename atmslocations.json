@@ -32,7 +32,7 @@
     },
     {
         "id": 6,
-        "name": "SCB Branch - Vaitiele",
+        "name": "SCB Branch - Vaitele",
         "address": "Vaitiele, Apia, Samoa",
         "features": ["24/7 Access", "Cash Withdrawal"]
     },
@@ -56,7 +56,7 @@
     },
     {
         "id": 10,
-        "name": "Farmer Joe Magi - Ululoloa",
+        "name": "Farmer Joe - Ululoloa",
         "address": "Ululoloa, Apia, Samoa",
         "features": ["Cash Withdrawal"]
     },
@@ -68,7 +68,7 @@
     },
     {
         "id": 12,
-        "name": "Farmer Joe Aita - Soleimoa",
+        "name": "Farmer Joe - Soleimoa",
         "address": "Soleimoa, Apia, Samoa",
         "features": ["Cash Withdrawal"]
     },
@@ -81,13 +81,13 @@
     {
         "id": 14,
         "name": "Bluebird Lumber & Hardware - Salelologa",
-        "address": "Salelologa, Savai'i, Samoa",
+        "address": "Salelologa, Savaii, Samoa",
         "features": ["Cash Withdrawal"]
     },
     {
         "id": 15,
-        "name": "SCB Branch - SaleIologa",
-        "address": "Salelologa, Savai'i, Samoa",
+        "name": "SCB Branch - Salelologa",
+        "address": "Salelologa, Savaii, Samoa",
         "features": ["24/7 Access", "Cash Withdrawal", "Balance Inquiry"]
     }
 ]

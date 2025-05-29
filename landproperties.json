@@ -7,7 +7,7 @@
       "price": "$80k per ½ acre",
       "zoning": "Residential",
       "features": ["Subdivided", "Road access"],
-      "contact": "lands@samoa.com"
+      "contact": "theodora@scbl.ws"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "price": "$120k O.N.O",
       "zoning": "Residential",
       "features": ["Flat terrain"],
-      "contact": "lands@samoa.com"
+      "contact": "theodora@scbl.ws"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "price": "$100k O.N.O",
       "zoning": "Residential",
       "features": ["Scenic views"],
-      "contact": "tanumalala@lands.com"
+      "contact": "theodora@scbl.ws"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": "$300,000.00",
       "zoning": "Agricultural",
       "features": ["Large area", "Potential development"],
-      "contact": "savaii@properties.com"
+      "contact": "theodora@scbl.ws"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "price": "$50k O.N.O",
       "zoning": "Residential",
       "features": ["Remaining lots"],
-      "contact": "malologeei@realestate.com"
+      "contact": "theodora@scbl.ws"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "price": "$990,000.00",
       "zoning": "Commercial",
       "features": ["Prime location"],
-      "contact": "fugalei@premium.com"
+      "contact": "theodora@scbl.ws"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "price": "Open to Offer",
       "zoning": "Residential",
       "features": ["Negotiable price"],
-      "contact": "samatau@lands.com"
+      "contact": "theodora@scbl.ws"
     }
   ]
 }

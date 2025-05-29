@@ -2,23 +2,13 @@
   "cars": [
     {
       "id": 1,
-      "make": "Toyota",
-      "model": "Hilux",
-      "year": 2020,
-      "mileage": "35,000 km",
-      "price": "$35,000",
-      "condition": "Excellent",
-      "contact": "cars@samoa.com"
-    },
-    {
-      "id": 2,
       "make": "Nissan",
-      "model": "Navara",
-      "year": 2019,
-      "mileage": "45,000 km",
-      "price": "$30,000",
-      "condition": "Good",
-      "contact": "nissan@autos.com"
+      "model": "Note",
+      "year": 2020,
+      "mileage": "N/A",
+      "price": "N/A",
+      "condition": "Excellent",
+      "contact": "theodora@scbl.ws"
     }
   ]
 }

@@ -3,11 +3,11 @@
     {
       "id": 1,
       "make": "Nissan",
-      "model": "Note",
-      "year": 2020,
-      "mileage": "N/A",
-      "price": "N/A",
-      "condition": "Excellent",
+      "model": "Note Automatic",
+      "year": 2010,
+      "mileage": "192788 Km",
+      "price": "10000 ono",
+      "condition": "Need Inspect",
       "contact": "saofaiga@scbl.ws"
     }
   ]

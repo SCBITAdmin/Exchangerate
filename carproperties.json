@@ -3,11 +3,11 @@
     {
       "id": 1,
       "make": "Nissan Note",
-      "model": "Automatic Engine / Operating Well ",
+      "model": "Automatic Engine / Operating Well",
       "year": 2010,
       "mileage": "192,788 Km",
       "price": "$10,000 ono",
-      "condition": "Requires inspection.",
+      "condition": "Requires inspection",
       "contact": "saofaiga@scbl.ws"
     }
   ]
